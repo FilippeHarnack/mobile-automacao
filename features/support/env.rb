@@ -1,0 +1,6 @@
+require 'appium_lib'
+require 'rspec'
+require 'rubygems'
+require 'selenium-webdriver'
+require 'cucumber'
+require 'faker' 
